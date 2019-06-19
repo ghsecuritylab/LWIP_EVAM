@@ -1,0 +1,15 @@
+"F:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armproc.dll" 
+
+"F:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armjlink2.dll" 
+
+"C:\Users\youcai\Desktop\Lwip_PCB\LWIP_EVAM\EWARM\Release\Exe\Lwip_EVAM.out" 
+
+--plugin "F:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armbat.dll" 
+
+--device_macro "F:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader "F:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\config\flashloader\ST\FlashSTM32F427xG.board" 
+
+
+
+

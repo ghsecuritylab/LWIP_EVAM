@@ -1,0 +1,5 @@
+---- PHY_MICR Matches (4 in 3 files) ----
+Ethernetif.c (c:\users\youcai\desktop\lwip_pcb\lwip_evam\src):  HAL_ETH_ReadPHYRegister(&EthHandle, PHY_MICR, &regvalue);
+Ethernetif.c (c:\users\youcai\desktop\lwip_pcb\lwip_evam\src):  HAL_ETH_WritePHYRegister(&EthHandle, PHY_MICR, regvalue );
+Stm32f4xx_hal_conf.h (c:\users\youcai\desktop\lwip_pcb\lwip_evam\inc):#define PHY_MICR                        ((uint16_t)0x11)    /*!< MII Interrupt Control Register                  */
+Stm32f4xx_hal_conf_template.h (c:\users\youcai\desktop\lwip_pcb\lwip_evam\drivers\stm32f4xx_hal_driver\inc):#define PHY_MICR                        ((uint16_t)0x0011)  /*!< MII Interrupt Control Register                  */
